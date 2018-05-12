@@ -1,0 +1,37 @@
+_repo: The-Patient-ObserverAnd-His-Friends_19359
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Strunsky, Simeon
+    birthdate: 1879
+    deathdate: 1948
+    gutenberg_agent_id: '8616'
+    url: http://www.gutenberg.org/2009/agents/8616
+    wikipedia: http://en.wikipedia.org/wiki/Simeon_Strunsky
+description: ''
+gutenberg_issued: '2006-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19359'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PS'
+tableOfContents: 'Cowards -- The church universal -- The doctors -- Interrogation
+  -- The mind triumphant -- On calling white black -- The solid flesh -- Some newspaper
+  traits -- A fledgling -- The complete collector: I -- The everlasting feminine --
+  The fantastic toe -- On living in Brooklyn -- Palladino outdone -- The cadence of
+  the crowd -- What we forget -- The children that lead us -- The Martians -- The
+  complete collector: II -- When a friend marries -- The perfect union of the arts
+  -- An eminent American -- Behind the times -- Public liars -- The complete collector:
+  III -- The commuter -- Headlines -- Usage -- 60 h. p. -- The sample life -- The
+  complete collector: IV -- Chopin''s successsors -- The irrepressible conflict --
+  The germs of culture.'
+title: The Patient Observer and His Friends
+url: http://www.gutenberg.org/ebooks/19359
